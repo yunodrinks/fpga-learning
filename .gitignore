@@ -10,6 +10,7 @@ Thumbs.db
 *.dump
 *.o
 *.out
+sim
 work/
 xsim.dir/
 modelsim.ini
